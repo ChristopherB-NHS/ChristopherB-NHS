@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristopherB-NHS
 - 👀 I’m interested in Databases, and automation
-- 🌱 I’m currently learning automation, and Norwegian 
+- 🌱 I’m currently learning automation, GitHub, and Norwegian 
 
 <!---
 ChristopherB-NHS/ChristopherB-NHS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
